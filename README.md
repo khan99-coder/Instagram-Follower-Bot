@@ -1,1 +1,1 @@
-# Intagram-Follower-Bot
+# Instagram-Follower-Bot
